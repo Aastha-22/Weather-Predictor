@@ -1,2 +1,2 @@
 # Weather-Predictor
-Python weather predictor: AI analyzes data for accurate forecasts, aiding planning &amp; decision-making.
+The Python weather predictor utilizes machine learning algorithms to analyze historical weather data and make accurate predictions about future weather conditions. By processing factors such as temperature, humidity, wind speed, and atmospheric pressure, it generates forecasts for specific locations. Its intuitive interface allows users to input desired locations and receive detailed forecasts, empowering them to plan activities and make informed decisions based on upcoming weather patterns. With continuous updates and improvements, the weather predictor provides reliable forecasts to ensure users stay ahead of changing weather conditions.
